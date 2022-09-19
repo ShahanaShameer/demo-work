@@ -1,0 +1,33 @@
+body{
+ color:black;   
+}
+.span{
+    font-weight: bolder;
+    text-decoration: underline;
+    text-shadow:none: 2px 5px 8px;
+
+}
+h1{
+    align-items: center;
+    padding-top: 150px;
+    color: brown;
+    padding-right:50px;
+}
+img{
+    width:300px;
+    height: 400px;
+    
+    border-radius:  100%;
+    margin: 100px;
+    
+}
+img:hover{
+border: 2px solid brown;
+}
+.row{
+    background-color: antiquewhite;
+    
+}
+.col{
+    display: flex;
+}
